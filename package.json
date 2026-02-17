@@ -1,0 +1,11 @@
+{
+  "name": "com.romain.testpackage",
+  "version": "1.0.0",
+  "displayName": "Yann Test Package",
+  "unity": "6000.3",
+  "author": {
+    "name": "Romain",
+    "email": "",
+    "url":""
+  }
+}
